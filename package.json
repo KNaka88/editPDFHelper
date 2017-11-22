@@ -1,0 +1,14 @@
+{
+  "name": "editpdfhelper",
+  "version": "1.0.0",
+  "description": "handle PDF edit more easily",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Koji Nakagawa",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
